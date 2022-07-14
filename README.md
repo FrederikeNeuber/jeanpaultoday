@@ -4,6 +4,8 @@ Der Twitter-Account [@jeanpaultoday](https://twitter.com/jeanpaultoday) macht t�
 
 _Digitale Neuausgabe der Briefe von Jean Paul (in der Fassung der von Eduard Berend herausgegebenen 3. Abteilung der Historisch-kritischen Ausgabe 1952–1964). Überarbeitet von Markus Bernauer, Norbert Miller und Frederike Neuber (Hrsg.), Berlin-Brandenburgischen Akademie der Wissenschaften 2018, in: Jean Paul - Sämtliche Briefe digital, dies. (Hrsg.), 2018ff. [Link zur digitalen Edition](https://www.jeanpaul-edition.de/) | [Datensatz auf Zenodo](https://doi.org/10.5281/zenodo.4109518)_ 
 
+
+
 **Datengrundlage**
 
 Für die Tweets wurden die Daten der digitalen Edition mit XSLT weiterverarbeitet. Für jeden im Volltext vorliegenden Brief wurden die ersten 280 Zeichen der Briefanfänge ausgelesen. Briefe, deren Länge 280 Zeichen unterschreitet, sind folglich auch kürzere Tweets. Briefkopf und Datumszeile wurden grundsätzlich aus den Tweets ausgeschlossen. Empfängerinnen wurden als (fiktive) @Twitteraccounts den Brieftexten vorangestellt. Die so generierten 4467 Briefanfänge wurden mit Brieftitel, Quelle, Datum und Link als XML/TEI gespeichert. 
@@ -37,3 +39,5 @@ Bitte zitieren Sie dieses Repositorium folgendermaßen:
 Frederike Neuber: @jeanpaultoday - Briefgezwitscher aus der Zeit um 1800 in den Social Media von heute (GitHub-Repositorium), 2022, https://github.com/FrederikeNeuber/jeanpaultoday.
 
 Für das Repositorium gilt die Lizenz CC-BY-SA 4.0.
+
+![Erster Tweet am 15.7.2022](first-tweet.jpg)
