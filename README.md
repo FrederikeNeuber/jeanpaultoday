@@ -28,7 +28,7 @@ Folgende Dateien/Formate stellt das Repositorium zur Verfügung:
 
 **Credits**
 
-Für die Erstellung der Flashcards wurde eine Verarbeitungroutine von Torsten Roeder für den Twitter-Account [@satzomat](https://twitter.com/satzomat/) übernommen und angepasst. Die Tweets werden automatisiert vom webservice Autochirp veröffentlicht.
+Für die Erstellung der Flashcards wurde eine Verarbeitungroutine von Torsten Roeder für den Twitter-Account [@satzomat](https://twitter.com/satzomat/) übernommen und angepasst. Die Tweets werden automatisiert vom webservice [Autochirp](https://autochirp.spinfo.uni-koeln.de/) veröffentlicht.
 
 **Zitation und Lizenz**
 
