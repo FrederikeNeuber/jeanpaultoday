@@ -6,7 +6,7 @@ _Digitale Neuausgabe der Briefe von Jean Paul (in der Fassung der von Eduard Ber
 
 
 
-**Datengrundlage**
+**Edition, Daten, Tweets: Jean Pauls Weg auf Twitter**
 
 Für die Tweets wurden die Daten der digitalen Edition mit XSLT transformiert. Für jeden im Volltext vorliegenden Brief wurden die ersten 280 Zeichen ausgelesen (Briefe unter 280 Zeichen vollständig), wobei Briefkopf und Datumszeile davon ausgeschlossen wurden. Die Empfängerinnen der Briefe sind dem Text als (fiktive) @Twitteraccounts vorangestellt. 
 
