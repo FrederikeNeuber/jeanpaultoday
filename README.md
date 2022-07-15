@@ -23,14 +23,10 @@ Der eigentliche Brieftext ist einer Flashcard zu entnehmen, die in der Gestaltun
 Folgende Dateien/Formate stellt das Repositorium zur Verfügung:
 
 * Tweets von 15.7.2022-15.7.2023: 
-  * tweets_2022.xml (Datengrundlage in XML/TEI) 
-  * tweets_2022.tsv (Tweettexte für den Twitter-Bot)
-  * flashcards_2022 (Tweetbilder als jpgs für den Twitter-Bot)
+  * tweets_sources_2022-2023.xml (Datengrundlage in XML/TEI) 
+  * tweets_autochirp_2022-2023.tsv (Tweettexte für den Twitter-Bot)
+  * flashcards (Tweetbilder als jpgs für den Twitter-Bot)
 * Noch unpublizierte Tweets: tweets_UNPUBLISHED.xml
-
-**Credits**
-
-Für die Erstellung der Flashcards wurde eine Verarbeitungroutine von Torsten Roeder für den Twitter-Account [@satzomat](https://twitter.com/satzomat/) übernommen und angepasst. Die Tweets werden automatisiert vom webservice [Autochirp](https://autochirp.spinfo.uni-koeln.de/) veröffentlicht.
 
 **Zitation und Lizenz**
 
@@ -39,5 +35,10 @@ Bitte zitieren Sie dieses Repositorium folgendermaßen:
 Frederike Neuber: @jeanpaultoday - Briefgezwitscher aus der Zeit um 1800 in den Social Media von heute (GitHub-Repositorium), 2022, https://github.com/FrederikeNeuber/jeanpaultoday.
 
 Für das Repositorium gilt die Lizenz CC-BY-SA 4.0.
+
+**Credits**
+
+Für die Erstellung der Flashcards wurde eine Verarbeitungroutine von Torsten Roeder für den Twitter-Account [@satzomat](https://twitter.com/satzomat/) übernommen und angepasst. Die Tweets werden automatisiert vom webservice [Autochirp](https://autochirp.spinfo.uni-koeln.de/) veröffentlicht.
+
 
 ![Erster Tweet am 15.7.2022](first-tweet.jpg)
