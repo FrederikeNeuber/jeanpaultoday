@@ -10099,6 +10099,23 @@
                         target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_900.jpg"/>
                   </bibl>
             </item>
+               <item xml:id="V_378">
+                     <quote ana="283">@OsmundEmanuel Guten Morgen, väterlicher Emanuel! Ich hätte schon längst selber geschrieben, wenn nicht Krause mir — der bei 800 fl. in 1 Monat an 30 Mann gehabt — Einwendungen gemacht hätte. Aber thun Sie nur alles, Rechter, was Sie für Recht halten; Ihrem Sprechen folgt dann me...</quote>
+                     <bibl type="source">
+                           <title>Von Jean Paul an Emanuel. Bayreuth, 16. Juli 1807.</title>
+                           <date when="1807-07-16">16 Jul, 1807</date>
+                           <edition>Jean Paul - Sämtliche Briefe digital</edition>
+                           <series>Von-Briefe</series>
+                           <link type="letter"
+                                 target="https://www.jeanpaul-edition.de/brief.html?num=V_378"/>
+                     </bibl>
+                     <bibl type="publication">
+                           <date>16.07.2023</date>
+                           <time>10:30</time>
+                           <link type="image"
+                                 target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_378.jpg"/>
+                     </bibl>
+               </item>
             <item xml:id="II_12">
                <quote ana="283">@MatzdorffCarlAugust Mir ist als begegneten wir beide einander auf dem Meer mit 2 Schiffen, so lange komts mir vor, daß wir auseinander gewesen. Entweder mein Brief über den unsterblichen Verstorbnen ist verloren gegangen oder Ihre Antwort darauf. — Endlich steh’ ich vom Steinisc...</quote>
                <bibl type="source">
@@ -10111,26 +10128,9 @@
                   </bibl>
                <bibl type="publication">
                      <date>16.07.2022</date>
-                     <time>10:30</time>
+                     <time>12:30</time>
                      <link type="image"
                         target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_12.jpg"/>
-                  </bibl>
-            </item>
-            <item xml:id="V_378">
-               <quote ana="283">@OsmundEmanuel Guten Morgen, väterlicher Emanuel! Ich hätte schon längst selber geschrieben, wenn nicht Krause mir — der bei 800 fl. in 1 Monat an 30 Mann gehabt — Einwendungen gemacht hätte. Aber thun Sie nur alles, Rechter, was Sie für Recht halten; Ihrem Sprechen folgt dann me...</quote>
-               <bibl type="source">
-                     <title>Von Jean Paul an Emanuel. Bayreuth, 16. Juli 1807.</title>
-                     <date when="1807-07-16">16 Jul, 1807</date>
-                     <edition>Jean Paul - Sämtliche Briefe digital</edition>
-                     <series>Von-Briefe</series>
-                     <link type="letter"
-                        target="https://www.jeanpaul-edition.de/brief.html?num=V_378"/>
-                  </bibl>
-               <bibl type="publication">
-                     <date>16.07.2022</date>
-                     <time>14:30</time>
-                     <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_378.jpg"/>
                   </bibl>
             </item>
             <item xml:id="II_659">
