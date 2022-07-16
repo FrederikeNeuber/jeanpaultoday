@@ -29,7 +29,7 @@ Folgende Dateien/Formate stellt das Repositorium zur Verfügung:
 
 Bitte zitieren Sie dieses Repositorium folgendermaßen:
 
-**Frederike Neuber: @jeanpaultoday - Briefgezwitscher aus der Zeit um 1800 in den Social Media von heute (GitHub-Repositorium), 2022, https://github.com/FrederikeNeuber/jeanpaultoday.**
+**Frederike Neuber: jeanpaultoday (GitHub-Repositorium), 2022, https://github.com/FrederikeNeuber/jeanpaultoday.**
 
 Für das Repositorium gilt die Lizenz CC-BY-SA 4.0.
 
