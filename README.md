@@ -9,7 +9,7 @@ _Digitale Neuausgabe der Briefe von Jean Paul (in der Fassung der von Eduard Ber
 
 Für die Tweets wurden die Daten der digitalen Edition mit XSLT transformiert. Für jeden im Volltext vorliegenden Brief wurde in bis zu 280 Zeichen der Briefanfang sowie der/die Empfänger/in der Briefe als (fiktiver) Twitteraccount ausgelesen. Briefkopf und Datumszeile wurden ausgeschlossen, sehr kurze Briefe ergeben ggf. Tweets unter 280 Zeichen. Die so generierten 4467 Briefanfänge wurden mit Brieftitel, Quelle, Datum und Link als XML/TEI gespeichert. Da 4467 Briefanfänge auf ein Jahr gerechnet rund 12 Tweets pro Tag bedeuten würden, wurde die Anzahl der Tweets auf drei pro Tag beschränkt. Dazu wurde für jeden Briefanfang eine beliebige Zahl generiert und pro Tag bis zu drei Briefanfänge mit dem höchsten Zahlenwert als Tweets für den Zeitraum 2022–2023 ausgewählt.
 
-Die Tweets werden ab 16.7.2022 täglich um 10.30 Uhr, 14:30 Uhr und 18:30 Uhr abgesetzt. Der Tweet-Text beinhaltet den Brieftitel, den Link zur Edition und die Hashtags #briefgezwitscher #jeanpaul #jeanpaultoday. Der eigentliche Brieftext ist einer Flashcard zu entnehmen, die sich in ihrer Gestaltung an echten Tweets anlehnen. 
+Die Tweets werden ab 16.7.2022 täglich um 10.00 Uhr, 14:00 Uhr und 18:00 Uhr abgesetzt. Der Tweet-Text beinhaltet den Brieftitel, den Link zur Edition und die Hashtags #briefgezwitscher #jeanpaul #jeanpaultoday. Der eigentliche Brieftext ist einer Flashcard zu entnehmen, die sich in ihrer Gestaltung an echten Tweets anlehnen. 
 
 **Credits**
 
