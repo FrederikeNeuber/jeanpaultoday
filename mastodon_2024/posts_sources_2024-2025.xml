@@ -3,9 +3,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>@jeanpaultoday - Briefgezwitscher aus der Zeit um 1800 in den Social Media von heute</title>
+            <title>@jeanpaultoday - Briefkultur aus der Zeit um 1800 in den Social Media von heute</title>
             <respStmt>
-               <resp>Generierung und Bereitstellung der Tweets</resp>
+               <resp>Generierung und Bereitstellung der Posts</resp>
                <persName ref="http://d-nb.info/gnd/1121508855">
                   <surname>Neuber</surname>
                   <forename>Frederike</forename>
@@ -55,7 +55,7 @@
                   <date>01.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_138"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_138"/>
                </bibl>
             </item>
             <item xml:id="VI_423">
@@ -72,7 +72,7 @@
                   <date>02.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_423"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_423"/>
                </bibl>
             </item>
             <item xml:id="VI_424">
@@ -89,7 +89,7 @@
                   <date>03.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_424"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_424"/>
                </bibl>
             </item>
             <item xml:id="VII_145">
@@ -106,7 +106,7 @@
                   <date>04.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_145"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_145"/>
                </bibl>
             </item>
             <item xml:id="VII_5">
@@ -123,7 +123,7 @@
                   <date>05.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_5"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_5"/>
                </bibl>
             </item>
             <item xml:id="III_190">
@@ -140,7 +140,7 @@
                   <date>06.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_190"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_190"/>
                </bibl>
             </item>
             <item xml:id="III_192">
@@ -157,7 +157,7 @@
                   <date>07.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_192"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_192"/>
                </bibl>
             </item>
             <item xml:id="VI_438">
@@ -174,7 +174,7 @@
                   <date>08.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_438"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_438"/>
                </bibl>
             </item>
             <item xml:id="V_300">
@@ -191,7 +191,7 @@
                   <date>09.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_300"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_300"/>
                </bibl>
             </item>
             <item xml:id="VII_367">
@@ -208,7 +208,7 @@
                   <date>10.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_367"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_367"/>
                </bibl>
             </item>
             <item xml:id="V_185">
@@ -225,7 +225,7 @@
                   <date>11.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_185"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_185"/>
                </bibl>
             </item>
             <item xml:id="VI_222">
@@ -242,7 +242,7 @@
                   <date>12.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_222"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_222"/>
                </bibl>
             </item>
             <item xml:id="I_355">
@@ -259,7 +259,7 @@
                   <date>13.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_355"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_355"/>
                </bibl>
             </item>
             <item xml:id="IV_70">
@@ -276,7 +276,7 @@
                   <date>14.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_70"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_70"/>
                </bibl>
             </item>
             <item xml:id="VI_9">
@@ -293,7 +293,7 @@
                   <date>15.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_9"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_9"/>
                </bibl>
             </item>
             <item xml:id="VII_496">
@@ -310,7 +310,7 @@
                   <date>16.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_496"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_496"/>
                </bibl>
             </item>
             <item xml:id="VIII_355">
@@ -327,7 +327,7 @@
                   <date>17.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_355"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_355"/>
                </bibl>
             </item>
             <item xml:id="VI_14">
@@ -344,7 +344,7 @@
                   <date>18.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_14"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_14"/>
                </bibl>
             </item>
             <item xml:id="I_356">
@@ -361,7 +361,7 @@
                   <date>19.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_356"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_356"/>
                </bibl>
             </item>
             <item xml:id="III_386">
@@ -378,7 +378,7 @@
                   <date>20.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_386"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_386"/>
                </bibl>
             </item>
             <item xml:id="VI_445">
@@ -395,7 +395,7 @@
                   <date>21.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_445"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_445"/>
                </bibl>
             </item>
             <item xml:id="VII_151">
@@ -412,7 +412,7 @@
                   <date>22.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_151"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_151"/>
                </bibl>
             </item>
             <item xml:id="V_312">
@@ -429,7 +429,7 @@
                   <date>23.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_312"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_312"/>
                </bibl>
             </item>
             <item xml:id="VIII_416">
@@ -446,7 +446,7 @@
                   <date>24.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_416"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_416"/>
                </bibl>
             </item>
             <item xml:id="V_189">
@@ -463,7 +463,7 @@
                   <date>25.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_189"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_189"/>
                </bibl>
             </item>
             <item xml:id="VI_20">
@@ -480,7 +480,7 @@
                   <date>26.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_20"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_20"/>
                </bibl>
             </item>
             <item xml:id="III_195">
@@ -497,7 +497,7 @@
                   <date>27.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_195"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_195"/>
                </bibl>
             </item>
             <item xml:id="VI_22">
@@ -514,7 +514,7 @@
                   <date>28.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_22"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_22"/>
                </bibl>
             </item>
             <item xml:id="I_144">
@@ -531,7 +531,7 @@
                   <date>29.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_144"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_144"/>
                </bibl>
             </item>
             <item xml:id="VI_450">
@@ -548,7 +548,7 @@
                   <date>30.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_450"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_450"/>
                </bibl>
             </item>
             <item xml:id="II_226">
@@ -565,7 +565,7 @@
                   <date>31.01.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_226"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_226"/>
                </bibl>
             </item>
             <item xml:id="I_90">
@@ -582,7 +582,7 @@
                   <date>01.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_90"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_90"/>
                </bibl>
             </item>
             <item xml:id="VI_27">
@@ -599,7 +599,7 @@
                   <date>02.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_27"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_27"/>
                </bibl>
             </item>
             <item xml:id="VIII_243">
@@ -616,7 +616,7 @@
                   <date>03.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_243"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_243"/>
                </bibl>
             </item>
             <item xml:id="I_91">
@@ -633,7 +633,7 @@
                   <date>04.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_91"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_91"/>
                </bibl>
             </item>
             <item xml:id="VII_506">
@@ -650,7 +650,7 @@
                   <date>05.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_506"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_506"/>
                </bibl>
             </item>
             <item xml:id="I_147">
@@ -667,7 +667,7 @@
                   <date>06.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_147"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_147"/>
                </bibl>
             </item>
             <item xml:id="I_210">
@@ -684,7 +684,7 @@
                   <date>07.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_210"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_210"/>
                </bibl>
             </item>
             <item xml:id="II_527">
@@ -701,7 +701,7 @@
                   <date>08.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_527"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_527"/>
                </bibl>
             </item>
             <item xml:id="II_64">
@@ -718,7 +718,7 @@
                   <date>09.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_64"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_64"/>
                </bibl>
             </item>
             <item xml:id="V_62">
@@ -735,7 +735,7 @@
                   <date>10.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_62"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_62"/>
                </bibl>
             </item>
             <item xml:id="VIII_246">
@@ -752,7 +752,7 @@
                   <date>11.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_246"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_246"/>
                </bibl>
             </item>
             <item xml:id="III_208">
@@ -769,7 +769,7 @@
                   <date>12.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_208"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_208"/>
                </bibl>
             </item>
             <item xml:id="I_93">
@@ -786,7 +786,7 @@
                   <date>13.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_93"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_93"/>
                </bibl>
             </item>
             <item xml:id="II_532">
@@ -803,7 +803,7 @@
                   <date>14.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_532"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_532"/>
                </bibl>
             </item>
             <item xml:id="VII_259">
@@ -820,7 +820,7 @@
                   <date>15.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_259"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_259"/>
                </bibl>
             </item>
             <item xml:id="II_536">
@@ -837,7 +837,7 @@
                   <date>16.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_536"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_536"/>
                </bibl>
             </item>
             <item xml:id="III_54">
@@ -854,7 +854,7 @@
                   <date>17.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_54"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_54"/>
                </bibl>
             </item>
             <item xml:id="VI_34">
@@ -871,7 +871,7 @@
                   <date>18.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_34"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_34"/>
                </bibl>
             </item>
             <item xml:id="III_55">
@@ -889,7 +889,7 @@
                   <date>19.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_55"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_55"/>
                </bibl>
             </item>
             <item xml:id="II_242">
@@ -906,7 +906,7 @@
                   <date>20.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_242"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_242"/>
                </bibl>
             </item>
             <item xml:id="II_243">
@@ -923,7 +923,7 @@
                   <date>21.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_243"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_243"/>
                </bibl>
             </item>
             <item xml:id="VIII_20">
@@ -940,7 +940,7 @@
                   <date>22.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_20"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_20"/>
                </bibl>
             </item>
             <item xml:id="V_68">
@@ -957,7 +957,7 @@
                   <date>23.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_68"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_68"/>
                </bibl>
             </item>
             <item xml:id="V_197">
@@ -974,7 +974,7 @@
                   <date>24.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_197"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_197"/>
                </bibl>
             </item>
             <item xml:id="I_383">
@@ -992,7 +992,7 @@
                   <date>25.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_383"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_383"/>
                </bibl>
             </item>
             <item xml:id="II_68">
@@ -1009,7 +1009,7 @@
                   <date>26.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_68"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_68"/>
                </bibl>
             </item>
             <item xml:id="III_65">
@@ -1027,7 +1027,7 @@
                   <date>27.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_65"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_65"/>
                </bibl>
             </item>
             <item xml:id="II_545">
@@ -1044,7 +1044,7 @@
                   <date>28.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_545"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_545"/>
                </bibl>
             </item>
             <item xml:id="V_488">
@@ -1062,7 +1062,7 @@
                   <date>29.02.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_488"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_488"/>
                </bibl>
             </item>
             <item xml:id="IV_350">
@@ -1079,7 +1079,7 @@
                   <date>01.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_350"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_350"/>
                </bibl>
             </item>
             <item xml:id="VI_38">
@@ -1096,7 +1096,7 @@
                   <date>02.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_38"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_38"/>
                </bibl>
             </item>
             <item xml:id="VIII_153">
@@ -1113,7 +1113,7 @@
                   <date>03.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_153"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_153"/>
                </bibl>
             </item>
             <item xml:id="II_257">
@@ -1130,7 +1130,7 @@
                   <date>04.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_257"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_257"/>
                </bibl>
             </item>
             <item xml:id="IV_450">
@@ -1147,7 +1147,7 @@
                   <date>05.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_450"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_450"/>
                </bibl>
             </item>
             <item xml:id="I_153">
@@ -1164,7 +1164,7 @@
                   <date>06.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_153"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_153"/>
                </bibl>
             </item>
             <item xml:id="VI_839">
@@ -1181,7 +1181,7 @@
                   <date>07.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_839"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_839"/>
                </bibl>
             </item>
             <item xml:id="II_259">
@@ -1198,7 +1198,7 @@
                   <date>08.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_259"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_259"/>
                </bibl>
             </item>
             <item xml:id="II_4">
@@ -1215,7 +1215,7 @@
                   <date>09.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_4"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_4"/>
                </bibl>
             </item>
             <item xml:id="V_330">
@@ -1232,7 +1232,7 @@
                   <date>10.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_330"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_330"/>
                </bibl>
             </item>
             <item xml:id="II_71">
@@ -1249,7 +1249,7 @@
                   <date>11.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_71"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_71"/>
                </bibl>
             </item>
             <item xml:id="VI_43">
@@ -1266,7 +1266,7 @@
                   <date>12.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_43"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_43"/>
                </bibl>
             </item>
             <item xml:id="VI_845">
@@ -1283,7 +1283,7 @@
                   <date>13.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_845"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_845"/>
                </bibl>
             </item>
             <item xml:id="V_498">
@@ -1300,7 +1300,7 @@
                   <date>14.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_498"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_498"/>
                </bibl>
             </item>
             <item xml:id="I_157">
@@ -1318,7 +1318,7 @@
                   <date>15.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_157"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_157"/>
                </bibl>
             </item>
             <item xml:id="II_76">
@@ -1335,7 +1335,7 @@
                   <date>16.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_76"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_76"/>
                </bibl>
             </item>
             <item xml:id="VIII_363">
@@ -1352,7 +1352,7 @@
                   <date>17.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_363"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_363"/>
                </bibl>
             </item>
             <item xml:id="II_264">
@@ -1369,7 +1369,7 @@
                   <date>18.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_264"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_264"/>
                </bibl>
             </item>
             <item xml:id="VIII_477">
@@ -1386,7 +1386,7 @@
                   <date>19.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_477"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_477"/>
                </bibl>
             </item>
             <item xml:id="VIII_263">
@@ -1403,7 +1403,7 @@
                   <date>20.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_263"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_263"/>
                </bibl>
             </item>
             <item xml:id="VI_629">
@@ -1421,7 +1421,7 @@
                   <date>21.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_629"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_629"/>
                </bibl>
             </item>
             <item xml:id="V_206">
@@ -1438,7 +1438,7 @@
                   <date>22.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_206"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_206"/>
                </bibl>
             </item>
             <item xml:id="II_82">
@@ -1455,7 +1455,7 @@
                   <date>23.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_82"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_82"/>
                </bibl>
             </item>
             <item xml:id="I_313">
@@ -1473,7 +1473,7 @@
                   <date>24.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_313"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_313"/>
                </bibl>
             </item>
             <item xml:id="I_250">
@@ -1490,7 +1490,7 @@
                   <date>25.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_250"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_250"/>
                </bibl>
             </item>
             <item xml:id="I_160">
@@ -1507,7 +1507,7 @@
                   <date>26.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_160"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_160"/>
                </bibl>
             </item>
             <item xml:id="IV_256">
@@ -1525,7 +1525,7 @@
                   <date>27.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_256"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_256"/>
                </bibl>
             </item>
             <item xml:id="VII_392">
@@ -1542,7 +1542,7 @@
                   <date>28.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_392"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_392"/>
                </bibl>
             </item>
             <!--<item xml:id="III_232">
@@ -1559,7 +1559,7 @@
                   <date>29.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_232"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_232"/>
                </bibl>
             </item>-->
             <item xml:id="IV_260">
@@ -1577,7 +1577,7 @@
                   <date>30.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_260"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_260"/>
                </bibl>
             </item>
             <item xml:id="II_85">
@@ -1594,7 +1594,7 @@
                   <date>31.03.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_85"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_85"/>
                </bibl>
             </item>
             <item xml:id="VIII_367">
@@ -1611,7 +1611,7 @@
                   <date>01.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_367"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_367"/>
                </bibl>
             </item>
             <item xml:id="V_337">
@@ -1628,7 +1628,7 @@
                   <date>02.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_337"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_337"/>
                </bibl>
             </item>
             <item xml:id="VII_270">
@@ -1645,7 +1645,7 @@
                   <date>03.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_270"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_270"/>
                </bibl>
             </item>
             <item xml:id="I_36">
@@ -1662,7 +1662,7 @@
                   <date>04.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_36"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_36"/>
                </bibl>
             </item>
             <item xml:id="V_210">
@@ -1679,7 +1679,7 @@
                   <date>05.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_210"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_210"/>
                </bibl>
             </item>
             <item xml:id="IV_358">
@@ -1696,7 +1696,7 @@
                   <date>06.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_358"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_358"/>
                </bibl>
             </item>
             <item xml:id="II_581">
@@ -1713,7 +1713,7 @@
                   <date>07.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_581"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_581"/>
                </bibl>
             </item>
             <item xml:id="VI_856">
@@ -1730,7 +1730,7 @@
                   <date>08.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_856"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_856"/>
                </bibl>
             </item>
             <item xml:id="VII_47">
@@ -1747,7 +1747,7 @@
                   <date>09.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_47"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_47"/>
                </bibl>
             </item>
             <item xml:id="V_95">
@@ -1764,7 +1764,7 @@
                   <date>10.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_95"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_95"/>
                </bibl>
             </item>
             <item xml:id="VII_399">
@@ -1782,7 +1782,7 @@
                   <date>11.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_399"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_399"/>
                </bibl>
             </item>
             <item xml:id="I_316">
@@ -1799,7 +1799,7 @@
                   <date>12.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_316"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_316"/>
                </bibl>
             </item>
             <item xml:id="III_440">
@@ -1816,7 +1816,7 @@
                   <date>13.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_440"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_440"/>
                </bibl>
             </item>
             <item xml:id="VII_517">
@@ -1833,7 +1833,7 @@
                   <date>14.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_517"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_517"/>
                </bibl>
             </item>
             <item xml:id="II_102">
@@ -1850,7 +1850,7 @@
                   <date>15.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_102"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_102"/>
                </bibl>
             </item>
             <item xml:id="II_290">
@@ -1867,7 +1867,7 @@
                   <date>16.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_290"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_290"/>
                </bibl>
             </item>
             <item xml:id="III_446">
@@ -1884,7 +1884,7 @@
                   <date>17.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_446"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_446"/>
                </bibl>
             </item>
             <item xml:id="V_212">
@@ -1902,7 +1902,7 @@
                   <date>18.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_212"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_212"/>
                </bibl>
             </item>
             <item xml:id="VI_636">
@@ -1919,7 +1919,7 @@
                   <date>19.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_636"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_636"/>
                </bibl>
             </item>
             <item xml:id="V_348">
@@ -1936,7 +1936,7 @@
                   <date>20.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_348"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_348"/>
                </bibl>
             </item>
             <item xml:id="IV_117">
@@ -1953,7 +1953,7 @@
                   <date>21.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_117"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_117"/>
                </bibl>
             </item>
             <item xml:id="II_293">
@@ -1970,7 +1970,7 @@
                   <date>22.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_293"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_293"/>
                </bibl>
             </item>
             <item xml:id="VI_79">
@@ -1987,7 +1987,7 @@
                   <date>23.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_79"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_79"/>
                </bibl>
             </item>
             <item xml:id="II_297">
@@ -2004,7 +2004,7 @@
                   <date>24.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_297"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_297"/>
                </bibl>
             </item>
             <item xml:id="VI_866">
@@ -2021,7 +2021,7 @@
                   <date>25.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_866"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_866"/>
                </bibl>
             </item>
             <item xml:id="III_248">
@@ -2038,7 +2038,7 @@
                   <date>26.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_248"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_248"/>
                </bibl>
             </item>
             <item xml:id="I_166">
@@ -2055,7 +2055,7 @@
                   <date>27.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_166"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_166"/>
                </bibl>
             </item>
             <item xml:id="I_102">
@@ -2072,7 +2072,7 @@
                   <date>28.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_102"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_102"/>
                </bibl>
             </item>
             <item xml:id="II_602">
@@ -2089,7 +2089,7 @@
                   <date>29.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_602"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_602"/>
                </bibl>
             </item>
             <item xml:id="II_305">
@@ -2106,7 +2106,7 @@
                   <date>30.04.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_305"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_305"/>
                </bibl>
             </item>
             <item xml:id="I_194">
@@ -2123,7 +2123,7 @@
                   <date>01.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_194"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_194"/>
                </bibl>
             </item>
             <item xml:id="IV_462">
@@ -2140,7 +2140,7 @@
                   <date>02.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_462"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_462"/>
                </bibl>
             </item>
             <item xml:id="I_40">
@@ -2157,7 +2157,7 @@
                   <date>03.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_40"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_40"/>
                </bibl>
             </item>
             <item xml:id="VIII_41">
@@ -2174,7 +2174,7 @@
                   <date>04.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_41"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_41"/>
                </bibl>
             </item>
             <item xml:id="II_604">
@@ -2191,7 +2191,7 @@
                   <date>05.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_604"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_604"/>
                </bibl>
             </item>
             <item xml:id="V_102">
@@ -2208,7 +2208,7 @@
                   <date>06.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_102"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_102"/>
                </bibl>
             </item>
             <item xml:id="III_455">
@@ -2225,7 +2225,7 @@
                   <date>07.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_455"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_455"/>
                </bibl>
             </item>
             <item xml:id="VIII_486">
@@ -2242,7 +2242,7 @@
                   <date>08.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_486"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_486"/>
                </bibl>
             </item>
             <item xml:id="V_522">
@@ -2259,7 +2259,7 @@
                   <date>09.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_522"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_522"/>
                </bibl>
             </item>
             <item xml:id="III_458">
@@ -2277,7 +2277,7 @@
                   <date>10.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_458"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_458"/>
                </bibl>
             </item>
             <item xml:id="IV_134">
@@ -2294,7 +2294,7 @@
                   <date>11.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_134"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_134"/>
                </bibl>
             </item>
             <item xml:id="IV_272">
@@ -2311,7 +2311,7 @@
                   <date>12.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_272"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_272"/>
                </bibl>
             </item>
             <item xml:id="VI_874">
@@ -2328,7 +2328,7 @@
                   <date>13.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_874"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_874"/>
                </bibl>
             </item>
             <item xml:id="II_311">
@@ -2345,7 +2345,7 @@
                   <date>14.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_311"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_311"/>
                </bibl>
             </item>
             <item xml:id="VII_404">
@@ -2362,7 +2362,7 @@
                   <date>15.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_404"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_404"/>
                </bibl>
             </item>
             <item xml:id="VII_406">
@@ -2379,7 +2379,7 @@
                   <date>16.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_406"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_406"/>
                </bibl>
             </item>
             <item xml:id="V_528">
@@ -2396,7 +2396,7 @@
                   <date>17.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_528"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_528"/>
                </bibl>
             </item>
             <item xml:id="IV_135">
@@ -2413,7 +2413,7 @@
                   <date>18.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_135"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_135"/>
                </bibl>
             </item>
             <item xml:id="VII_282">
@@ -2430,7 +2430,7 @@
                   <date>19.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_282"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_282"/>
                </bibl>
             </item>
             <item xml:id="VIII_377">
@@ -2447,7 +2447,7 @@
                   <date>20.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_377"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_377"/>
                </bibl>
             </item>
             <item xml:id="VI_756">
@@ -2465,7 +2465,7 @@
                   <date>21.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_756"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_756"/>
                </bibl>
             </item>
             <item xml:id="VI_880">
@@ -2482,7 +2482,7 @@
                   <date>22.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_880"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_880"/>
                </bibl>
             </item>
             <item xml:id="II_622">
@@ -2500,7 +2500,7 @@
                   <date>23.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_622"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_622"/>
                </bibl>
             </item>
             <item xml:id="V_532">
@@ -2517,7 +2517,7 @@
                   <date>24.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_532"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_532"/>
                </bibl>
             </item>
             <item xml:id="I_427">
@@ -2534,7 +2534,7 @@
                   <date>25.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_427"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_427"/>
                </bibl>
             </item>
             <item xml:id="VII_286">
@@ -2551,7 +2551,7 @@
                   <date>26.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_286"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_286"/>
                </bibl>
             </item>
             <item xml:id="VIII_379">
@@ -2568,7 +2568,7 @@
                   <date>27.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_379"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_379"/>
                </bibl>
             </item>
             <item xml:id="VIII_295">
@@ -2585,7 +2585,7 @@
                   <date>28.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_295"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_295"/>
                </bibl>
             </item>
             <item xml:id="III_472a">
@@ -2602,7 +2602,7 @@
                   <date>29.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_472a"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_472a"/>
                </bibl>
             </item>
             <item xml:id="VII_412">
@@ -2620,7 +2620,7 @@
                   <date>30.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_412"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_412"/>
                </bibl>
             </item>
             <item xml:id="VIII_54">
@@ -2637,7 +2637,7 @@
                   <date>31.05.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_54"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_54"/>
                </bibl>
             </item>
             <item xml:id="V_365">
@@ -2654,7 +2654,7 @@
                   <date>01.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_365"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_365"/>
                </bibl>
             </item>
             <item xml:id="VII_415">
@@ -2672,7 +2672,7 @@
                   <date>02.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_415"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_415"/>
                </bibl>
             </item>
             <item xml:id="II_628">
@@ -2689,7 +2689,7 @@
                   <date>03.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_628"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_628"/>
                </bibl>
             </item>
             <item xml:id="VIII_435">
@@ -2706,7 +2706,7 @@
                   <date>04.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_435"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_435"/>
                </bibl>
             </item>
             <item xml:id="II_328">
@@ -2723,7 +2723,7 @@
                   <date>05.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_328"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_328"/>
                </bibl>
             </item>
             <item xml:id="VIII_436">
@@ -2740,7 +2740,7 @@
                   <date>06.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_436"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_436"/>
                </bibl>
             </item>
             <item xml:id="VIII_184">
@@ -2757,7 +2757,7 @@
                   <date>07.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_184"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_184"/>
                </bibl>
             </item>
             <item xml:id="VII_291">
@@ -2775,7 +2775,7 @@
                   <date>08.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_291"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_291"/>
                </bibl>
             </item>
             <item xml:id="VIII_300">
@@ -2792,7 +2792,7 @@
                   <date>09.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_300"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_300"/>
                </bibl>
             </item>
             <item xml:id="III_276">
@@ -2809,7 +2809,7 @@
                   <date>10.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_276"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_276"/>
                </bibl>
             </item>
             <item xml:id="I_107">
@@ -2826,7 +2826,7 @@
                   <date>11.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_107"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_107"/>
                </bibl>
             </item>
             <item xml:id="VIII_308">
@@ -2844,7 +2844,7 @@
                   <date>12.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_308"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_308"/>
                </bibl>
             </item>
             <item xml:id="VIII_186">
@@ -2861,7 +2861,7 @@
                   <date>13.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_186"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_186"/>
                </bibl>
             </item>
             <item xml:id="VII_532">
@@ -2878,7 +2878,7 @@
                   <date>14.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_532"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_532"/>
                </bibl>
             </item>
             <item xml:id="IV_476">
@@ -2895,7 +2895,7 @@
                   <date>15.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_476"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_476"/>
                </bibl>
             </item>
             <item xml:id="VII_533">
@@ -2913,7 +2913,7 @@
                   <date>16.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_533"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_533"/>
                </bibl>
             </item>
             <item xml:id="II_340">
@@ -2930,7 +2930,7 @@
                   <date>17.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_340"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_340"/>
                </bibl>
             </item>
             <item xml:id="III_478">
@@ -2947,7 +2947,7 @@
                   <date>18.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_478"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_478"/>
                </bibl>
             </item>
             <item xml:id="III_479b">
@@ -2965,7 +2965,7 @@
                   <date>19.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_479b"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_479b"/>
                </bibl>
             </item>
             <item xml:id="IV_148">
@@ -2982,7 +2982,7 @@
                   <date>20.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_148"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_148"/>
                </bibl>
             </item>
             <item xml:id="VIII_311">
@@ -2999,7 +2999,7 @@
                   <date>21.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_311"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_311"/>
                </bibl>
             </item>
             <item xml:id="IV_151">
@@ -3016,7 +3016,7 @@
                   <date>22.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_151"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_151"/>
                </bibl>
             </item>
             <item xml:id="VI_496">
@@ -3033,7 +3033,7 @@
                   <date>23.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_496"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_496"/>
                </bibl>
             </item>
             <item xml:id="V_225">
@@ -3050,7 +3050,7 @@
                   <date>24.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_225"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_225"/>
                </bibl>
             </item>
             <item xml:id="VI_497">
@@ -3067,7 +3067,7 @@
                   <date>25.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_497"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_497"/>
                </bibl>
             </item>
             <item xml:id="VI_770">
@@ -3084,7 +3084,7 @@
                   <date>26.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_770"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_770"/>
                </bibl>
             </item>
             <item xml:id="VI_111">
@@ -3101,7 +3101,7 @@
                   <date>27.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_111"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_111"/>
                </bibl>
             </item>
             <item xml:id="VII_433">
@@ -3118,7 +3118,7 @@
                   <date>28.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_433"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_433"/>
                </bibl>
             </item>
             <item xml:id="VIII_314">
@@ -3135,7 +3135,7 @@
                   <date>29.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_314"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_314"/>
                </bibl>
             </item>
             <item xml:id="I_432">
@@ -3152,7 +3152,7 @@
                   <date>30.06.2025</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_432"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_432"/>
                </bibl>
             </item>
             <item xml:id="IV_482">
@@ -3169,7 +3169,7 @@
                   <date>01.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_482"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_482"/>
                </bibl>
             </item>
             <item xml:id="VII_293">
@@ -3187,7 +3187,7 @@
                   <date>02.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_293"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_293"/>
                </bibl>
             </item>
             <item xml:id="VI_114">
@@ -3204,7 +3204,7 @@
                   <date>03.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_114"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_114"/>
                </bibl>
             </item>
             <item xml:id="I_433">
@@ -3221,7 +3221,7 @@
                   <date>04.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_433"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_433"/>
                </bibl>
             </item>
             <item xml:id="VII_195">
@@ -3238,7 +3238,7 @@
                   <date>05.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_195"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_195"/>
                </bibl>
             </item>
             <item xml:id="II_353">
@@ -3255,7 +3255,7 @@
                   <date>06.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_353"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_353"/>
                </bibl>
             </item>
             <item xml:id="V_375">
@@ -3272,7 +3272,7 @@
                   <date>07.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_375"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_375"/>
                </bibl>
             </item>
             <item xml:id="VIII_315">
@@ -3289,7 +3289,7 @@
                   <date>08.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_315"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_315"/>
                </bibl>
             </item>
             <item xml:id="VII_438">
@@ -3306,7 +3306,7 @@
                   <date>09.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_438"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_438"/>
                </bibl>
             </item>
             <item xml:id="VI_658">
@@ -3324,7 +3324,7 @@
                   <date>10.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_658"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_658"/>
                </bibl>
             </item>
             <item xml:id="III_108">
@@ -3341,7 +3341,7 @@
                   <date>11.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_108"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_108"/>
                </bibl>
             </item>
             <item xml:id="VI_117">
@@ -3358,7 +3358,7 @@
                   <date>12.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_117"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_117"/>
                </bibl>
             </item>
             <item xml:id="IV_163">
@@ -3375,7 +3375,7 @@
                   <date>13.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_163"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_163"/>
                </bibl>
             </item>
             <item xml:id="IV_390">
@@ -3392,7 +3392,7 @@
                   <date>14.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_390"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_390"/>
                </bibl>
             </item>
             <item xml:id="VI_508">
@@ -3410,7 +3410,7 @@
                   <date>15.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_508"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_508"/>
                </bibl>
             </item>
             <item xml:id="II_12">
@@ -3427,7 +3427,7 @@
                   <date>16.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_12"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_12"/>
                </bibl>
             </item>
             <item xml:id="VI_120">
@@ -3444,7 +3444,7 @@
                   <date>17.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_120"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_120"/>
                </bibl>
             </item>
             <item xml:id="VII_298">
@@ -3462,7 +3462,7 @@
                   <date>18.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_298"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_298"/>
                </bibl>
             </item>
             <item xml:id="VII_444">
@@ -3479,7 +3479,7 @@
                   <date>19.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_444"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_444"/>
                </bibl>
             </item>
             <item xml:id="II_13">
@@ -3496,7 +3496,7 @@
                   <date>20.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_13"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_13"/>
                </bibl>
             </item>
             <item xml:id="VI_309">
@@ -3513,7 +3513,7 @@
                   <date>21.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_309"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_309"/>
                </bibl>
             </item>
             <item xml:id="I_76">
@@ -3530,7 +3530,7 @@
                   <date>22.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_76"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_76"/>
                </bibl>
             </item>
             <item xml:id="II_667">
@@ -3547,7 +3547,7 @@
                   <date>23.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_667"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_667"/>
                </bibl>
             </item>
             <item xml:id="II_669">
@@ -3564,7 +3564,7 @@
                   <date>24.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_669"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_669"/>
                </bibl>
             </item>
             <item xml:id="III_492">
@@ -3581,7 +3581,7 @@
                   <date>25.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_492"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_492"/>
                </bibl>
             </item>
             <item xml:id="V_553">
@@ -3598,7 +3598,7 @@
                   <date>26.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_553"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_553"/>
                </bibl>
             </item>
             <item xml:id="VII_205">
@@ -3615,7 +3615,7 @@
                   <date>27.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_205"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_205"/>
                </bibl>
             </item>
             <item xml:id="VII_206">
@@ -3632,7 +3632,7 @@
                   <date>28.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_206"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_206"/>
                </bibl>
             </item>
             <item xml:id="I_110">
@@ -3649,7 +3649,7 @@
                   <date>29.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_110"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_110"/>
                </bibl>
             </item>
             <item xml:id="VII_446">
@@ -3666,7 +3666,7 @@
                   <date>30.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_446"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_446"/>
                </bibl>
             </item>
             <item xml:id="II_673">
@@ -3683,7 +3683,7 @@
                   <date>31.07.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_673"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_673"/>
                </bibl>
             </item>
             <item xml:id="VIII_82">
@@ -3700,7 +3700,7 @@
                   <date>01.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_82"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_82"/>
                </bibl>
             </item>
             <item xml:id="VI_518">
@@ -3717,7 +3717,7 @@
                   <date>02.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_518"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_518"/>
                </bibl>
             </item>
             <item xml:id="VII_450">
@@ -3734,7 +3734,7 @@
                   <date>03.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_450"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_450"/>
                </bibl>
             </item>
             <item xml:id="IV_491">
@@ -3751,7 +3751,7 @@
                   <date>04.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_491"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_491"/>
                </bibl>
             </item>
             <item xml:id="VI_522">
@@ -3768,7 +3768,7 @@
                   <date>05.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_522"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_522"/>
                </bibl>
             </item>
             <item xml:id="VII_78">
@@ -3785,7 +3785,7 @@
                   <date>06.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_78"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_78"/>
                </bibl>
             </item>
             <item xml:id="VI_662">
@@ -3803,7 +3803,7 @@
                   <date>07.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_662"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_662"/>
                </bibl>
             </item>
             <item xml:id="I_333">
@@ -3821,7 +3821,7 @@
                   <date>08.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_333"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_333"/>
                </bibl>
             </item>
             <item xml:id="VIII_201">
@@ -3838,7 +3838,7 @@
                   <date>09.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_201"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_201"/>
                </bibl>
             </item>
             <item xml:id="III_499">
@@ -3855,7 +3855,7 @@
                   <date>10.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_499"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_499"/>
                </bibl>
             </item>
             <item xml:id="VIII_390">
@@ -3872,7 +3872,7 @@
                   <date>11.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_390"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_390"/>
                </bibl>
             </item>
             <item xml:id="VII_81">
@@ -3890,7 +3890,7 @@
                   <date>12.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_81"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_81"/>
                </bibl>
             </item>
             <item xml:id="V_1">
@@ -3907,7 +3907,7 @@
                   <date>13.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_1"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_1"/>
                </bibl>
             </item>
             <item xml:id="II_681">
@@ -3925,7 +3925,7 @@
                   <date>14.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_681"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_681"/>
                </bibl>
             </item>
             <item xml:id="III_505">
@@ -3943,7 +3943,7 @@
                   <date>15.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_505"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_505"/>
                </bibl>
             </item>
             <item xml:id="I_57">
@@ -3960,7 +3960,7 @@
                   <date>16.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_57"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_57"/>
                </bibl>
             </item>
             <item xml:id="III_120">
@@ -3978,7 +3978,7 @@
                   <date>17.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_120"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_120"/>
                </bibl>
             </item>
             <item xml:id="VII_454">
@@ -3995,7 +3995,7 @@
                   <date>18.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_454"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_454"/>
                </bibl>
             </item>
             <item xml:id="II_16">
@@ -4012,7 +4012,7 @@
                   <date>19.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_16"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_16"/>
                </bibl>
             </item>
             <item xml:id="V_555">
@@ -4030,7 +4030,7 @@
                   <date>20.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_555"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_555"/>
                </bibl>
             </item>
             <item xml:id="VI_144">
@@ -4047,7 +4047,7 @@
                   <date>21.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_144"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_144"/>
                </bibl>
             </item>
             <item xml:id="VI_336">
@@ -4064,7 +4064,7 @@
                   <date>22.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_336"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_336"/>
                </bibl>
             </item>
             <item xml:id="VI_337">
@@ -4081,7 +4081,7 @@
                   <date>23.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_337"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_337"/>
                </bibl>
             </item>
             <item xml:id="I_78">
@@ -4098,7 +4098,7 @@
                   <date>24.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_78"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_78"/>
                </bibl>
             </item>
             <item xml:id="VIII_86">
@@ -4115,7 +4115,7 @@
                   <date>25.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_86"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_86"/>
                </bibl>
             </item>
             <item xml:id="VI_339">
@@ -4132,7 +4132,7 @@
                   <date>26.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_339"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_339"/>
                </bibl>
             </item>
             <item xml:id="VII_313">
@@ -4149,7 +4149,7 @@
                   <date>27.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_313"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_313"/>
                </bibl>
             </item>
             <item xml:id="V_6">
@@ -4166,7 +4166,7 @@
                   <date>28.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_6"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_6"/>
                </bibl>
             </item>
             <item xml:id="VIII_204">
@@ -4183,7 +4183,7 @@
                   <date>29.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_204"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_204"/>
                </bibl>
             </item>
             <item xml:id="VII_456">
@@ -4201,7 +4201,7 @@
                   <date>30.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_456"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_456"/>
                </bibl>
             </item>
             <item xml:id="VII_216">
@@ -4218,7 +4218,7 @@
                   <date>31.08.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_216"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_216"/>
                </bibl>
             </item>
             <item xml:id="IV_182">
@@ -4235,7 +4235,7 @@
                   <date>01.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_182"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_182"/>
                </bibl>
             </item>
             <item xml:id="VIII_206">
@@ -4252,7 +4252,7 @@
                   <date>02.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_206"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_206"/>
                </bibl>
             </item>
             <item xml:id="V_393">
@@ -4269,7 +4269,7 @@
                   <date>03.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_393"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_393"/>
                </bibl>
             </item>
             <item xml:id="II_159">
@@ -4286,7 +4286,7 @@
                   <date>04.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_159"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_159"/>
                </bibl>
             </item>
             <item xml:id="VIII_93">
@@ -4303,7 +4303,7 @@
                   <date>05.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_93"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_93"/>
                </bibl>
             </item>
             <item xml:id="V_395">
@@ -4320,7 +4320,7 @@
                   <date>06.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_395"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_395"/>
                </bibl>
             </item>
             <item xml:id="VII_457">
@@ -4337,7 +4337,7 @@
                   <date>07.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_457"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_457"/>
                </bibl>
             </item>
             <item xml:id="VII_84">
@@ -4355,7 +4355,7 @@
                   <date>08.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_84"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_84"/>
                </bibl>
             </item>
             <item xml:id="V_566">
@@ -4372,7 +4372,7 @@
                   <date>09.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_566"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_566"/>
                </bibl>
             </item>
             <item xml:id="I_112">
@@ -4389,7 +4389,7 @@
                   <date>10.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_112"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_112"/>
                </bibl>
             </item>
             <item xml:id="II_163">
@@ -4406,7 +4406,7 @@
                   <date>11.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_163"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_163"/>
                </bibl>
             </item>
             <item xml:id="VI_349">
@@ -4423,7 +4423,7 @@
                   <date>12.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_349"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_349"/>
                </bibl>
             </item>
             <item xml:id="II_698">
@@ -4441,7 +4441,7 @@
                   <date>13.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_698"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_698"/>
                </bibl>
             </item>
             <item xml:id="VII_222">
@@ -4458,7 +4458,7 @@
                   <date>14.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_222"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_222"/>
                </bibl>
             </item>
             <item xml:id="VII_325">
@@ -4476,7 +4476,7 @@
                   <date>15.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_325"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_325"/>
                </bibl>
             </item>
             <item xml:id="VI_352">
@@ -4493,7 +4493,7 @@
                   <date>16.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_352"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_352"/>
                </bibl>
             </item>
             <item xml:id="I_117">
@@ -4510,7 +4510,7 @@
                   <date>17.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_117"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_117"/>
                </bibl>
             </item>
             <item xml:id="V_569">
@@ -4527,7 +4527,7 @@
                   <date>18.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_569"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_569"/>
                </bibl>
             </item>
             <item xml:id="V_244">
@@ -4545,7 +4545,7 @@
                   <date>19.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_244"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_244"/>
                </bibl>
             </item>
             <item xml:id="IV_314">
@@ -4563,7 +4563,7 @@
                   <date>20.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_314"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_314"/>
                </bibl>
             </item>
             <item xml:id="III_130">
@@ -4580,7 +4580,7 @@
                   <date>21.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_130"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_130"/>
                </bibl>
             </item>
             <item xml:id="I_279">
@@ -4597,7 +4597,7 @@
                   <date>22.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_279"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_279"/>
                </bibl>
             </item>
             <item xml:id="I_280">
@@ -4614,7 +4614,7 @@
                   <date>23.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_280"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_280"/>
                </bibl>
             </item>
             <item xml:id="II_417">
@@ -4631,7 +4631,7 @@
                   <date>24.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_417"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_417"/>
                </bibl>
             </item>
             <item xml:id="V_410">
@@ -4648,7 +4648,7 @@
                   <date>25.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_410"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_410"/>
                </bibl>
             </item>
             <item xml:id="V_15">
@@ -4665,7 +4665,7 @@
                   <date>26.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_15"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_15"/>
                </bibl>
             </item>
             <item xml:id="V_143">
@@ -4682,7 +4682,7 @@
                   <date>27.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_143"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_143"/>
                </bibl>
             </item>
             <item xml:id="III_319">
@@ -4699,7 +4699,7 @@
                   <date>28.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_319"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_319"/>
                </bibl>
             </item>
             <item xml:id="V_146">
@@ -4716,7 +4716,7 @@
                   <date>29.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_146"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_146"/>
                </bibl>
             </item>
             <item xml:id="III_322">
@@ -4734,7 +4734,7 @@
                   <date>30.09.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_322"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_322"/>
                </bibl>
             </item>
             <item xml:id="II_421">
@@ -4751,7 +4751,7 @@
                   <date>01.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_421"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_421"/>
                </bibl>
             </item>
             <item xml:id="VII_232">
@@ -4769,7 +4769,7 @@
                   <date>02.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_232"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_232"/>
                </bibl>
             </item>
             <item xml:id="V_578">
@@ -4786,7 +4786,7 @@
                   <date>03.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_578"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_578"/>
                </bibl>
             </item>
             <item xml:id="VII_91">
@@ -4803,7 +4803,7 @@
                   <date>04.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_91"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_91"/>
                </bibl>
             </item>
             <item xml:id="V_150">
@@ -4821,7 +4821,7 @@
                   <date>05.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_150"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_150"/>
                </bibl>
             </item>
             <item xml:id="VI_549">
@@ -4838,7 +4838,7 @@
                   <date>06.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_549"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_549"/>
                </bibl>
             </item>
             <item xml:id="III_329">
@@ -4856,7 +4856,7 @@
                   <date>07.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_329"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_329"/>
                </bibl>
             </item>
             <item xml:id="II_174">
@@ -4873,7 +4873,7 @@
                   <date>08.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_174"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_174"/>
                </bibl>
             </item>
             <item xml:id="IV_322">
@@ -4890,7 +4890,7 @@
                   <date>09.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_322"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_322"/>
                </bibl>
             </item>
             <item xml:id="VI_934">
@@ -4908,7 +4908,7 @@
                   <date>10.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_934"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_934"/>
                </bibl>
             </item>
             <item xml:id="I_445">
@@ -4925,7 +4925,7 @@
                   <date>11.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_445"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_445"/>
                </bibl>
             </item>
             <item xml:id="VI_937">
@@ -4943,7 +4943,7 @@
                   <date>12.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_937"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_937"/>
                </bibl>
             </item>
             <item xml:id="VIII_400">
@@ -4960,7 +4960,7 @@
                   <date>13.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_400"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_400"/>
                </bibl>
             </item>
             <item xml:id="III_139">
@@ -4978,7 +4978,7 @@
                   <date>14.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_139"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_139"/>
                </bibl>
             </item>
             <item xml:id="IV_196">
@@ -4995,7 +4995,7 @@
                   <date>15.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_196"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_196"/>
                </bibl>
             </item>
             <item xml:id="IV_411">
@@ -5012,7 +5012,7 @@
                   <date>16.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_411"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_411"/>
                </bibl>
             </item>
             <item xml:id="VII_467">
@@ -5029,7 +5029,7 @@
                   <date>17.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_467"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_467"/>
                </bibl>
             </item>
             <item xml:id="II_721">
@@ -5046,7 +5046,7 @@
                   <date>18.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_721"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_721"/>
                </bibl>
             </item>
             <item xml:id="IV_7">
@@ -5063,7 +5063,7 @@
                   <date>19.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_7"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_7"/>
                </bibl>
             </item>
             <item xml:id="II_31">
@@ -5080,7 +5080,7 @@
                   <date>20.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_31"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_31"/>
                </bibl>
             </item>
             <item xml:id="II_180">
@@ -5097,7 +5097,7 @@
                   <date>21.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_180"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_180"/>
                </bibl>
             </item>
             <item xml:id="I_289">
@@ -5114,7 +5114,7 @@
                   <date>22.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_289"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_289"/>
                </bibl>
             </item>
             <item xml:id="VII_586">
@@ -5131,7 +5131,7 @@
                   <date>23.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_586"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_586"/>
                </bibl>
             </item>
             <item xml:id="VIII_221">
@@ -5148,7 +5148,7 @@
                   <date>24.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_221"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_221"/>
                </bibl>
             </item>
             <item xml:id="VI_367">
@@ -5165,7 +5165,7 @@
                   <date>25.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_367"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_367"/>
                </bibl>
             </item>
             <item xml:id="II_730">
@@ -5182,7 +5182,7 @@
                   <date>26.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_730"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_730"/>
                </bibl>
             </item>
             <item xml:id="I_345">
@@ -5199,7 +5199,7 @@
                   <date>27.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_345"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_345"/>
                </bibl>
             </item>
             <item xml:id="VII_103">
@@ -5216,7 +5216,7 @@
                   <date>28.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_103"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_103"/>
                </bibl>
             </item>
             <item xml:id="IV_13">
@@ -5233,7 +5233,7 @@
                   <date>29.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_13"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_13"/>
                </bibl>
             </item>
             <item xml:id="VIII_510">
@@ -5251,7 +5251,7 @@
                   <date>30.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_510"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_510"/>
                </bibl>
             </item>
             <item xml:id="VIII_110">
@@ -5269,7 +5269,7 @@
                   <date>31.10.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_110"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_110"/>
                </bibl>
             </item>
             <item xml:id="III_336">
@@ -5286,7 +5286,7 @@
                   <date>01.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_336"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_336"/>
                </bibl>
             </item>
             <item xml:id="VI_173">
@@ -5303,7 +5303,7 @@
                   <date>02.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_173"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_173"/>
                </bibl>
             </item>
             <item xml:id="III_149">
@@ -5321,7 +5321,7 @@
                   <date>03.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_149"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_149"/>
                </bibl>
             </item>
             <item xml:id="IV_17">
@@ -5338,7 +5338,7 @@
                   <date>04.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_17"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_17"/>
                </bibl>
             </item>
             <item xml:id="I_124">
@@ -5355,7 +5355,7 @@
                   <date>05.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_124"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_124"/>
                </bibl>
             </item>
             <item xml:id="IV_19">
@@ -5372,7 +5372,7 @@
                   <date>06.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_19"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_19"/>
                </bibl>
             </item>
             <item xml:id="IV_21">
@@ -5389,7 +5389,7 @@
                   <date>07.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_21"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_21"/>
                </bibl>
             </item>
             <item xml:id="III_340">
@@ -5406,7 +5406,7 @@
                   <date>08.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_340"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_340"/>
                </bibl>
             </item>
             <item xml:id="V_590">
@@ -5423,7 +5423,7 @@
                   <date>09.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_590"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_590"/>
                </bibl>
             </item>
             <item xml:id="V_426">
@@ -5440,7 +5440,7 @@
                   <date>10.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_426"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_426"/>
                </bibl>
             </item>
             <item xml:id="VI_384">
@@ -5457,7 +5457,7 @@
                   <date>11.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_384"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_384"/>
                </bibl>
             </item>
             <item xml:id="V_166">
@@ -5474,7 +5474,7 @@
                   <date>12.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_166"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_166"/>
                </bibl>
             </item>
             <item xml:id="VIII_227">
@@ -5491,7 +5491,7 @@
                   <date>13.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_227"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_227"/>
                </bibl>
             </item>
             <item xml:id="II_459">
@@ -5509,7 +5509,7 @@
                   <date>14.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_459"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_459"/>
                </bibl>
             </item>
             <item xml:id="IV_330">
@@ -5527,7 +5527,7 @@
                   <date>15.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_330"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_330"/>
                </bibl>
             </item>
             <item xml:id="VI_810">
@@ -5544,7 +5544,7 @@
                   <date>16.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_810"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_810"/>
                </bibl>
             </item>
             <item xml:id="VI_187">
@@ -5561,7 +5561,7 @@
                   <date>17.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_187"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_187"/>
                </bibl>
             </item>
             <item xml:id="VI_699">
@@ -5578,7 +5578,7 @@
                   <date>18.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_699"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_699"/>
                </bibl>
             </item>
             <item xml:id="VI_193">
@@ -5595,7 +5595,7 @@
                   <date>19.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_193"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_193"/>
                </bibl>
             </item>
             <item xml:id="VI_389">
@@ -5612,7 +5612,7 @@
                   <date>20.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_389"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_389"/>
                </bibl>
             </item>
             <item xml:id="IV_426">
@@ -5629,7 +5629,7 @@
                   <date>21.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_426"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_426"/>
                </bibl>
             </item>
             <item xml:id="IV_428">
@@ -5646,7 +5646,7 @@
                   <date>22.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_428"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_428"/>
                </bibl>
             </item>
             <item xml:id="V_266">
@@ -5663,7 +5663,7 @@
                   <date>23.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_266"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_266"/>
                </bibl>
             </item>
             <item xml:id="I_125">
@@ -5680,7 +5680,7 @@
                   <date>24.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_125"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_125"/>
                </bibl>
             </item>
             <item xml:id="III_15">
@@ -5697,7 +5697,7 @@
                   <date>25.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_15"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_15"/>
                </bibl>
             </item>
             <item xml:id="VI_812">
@@ -5714,7 +5714,7 @@
                   <date>26.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_812"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_812"/>
                </bibl>
             </item>
             <item xml:id="IV_215">
@@ -5731,7 +5731,7 @@
                   <date>27.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_215"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_215"/>
                </bibl>
             </item>
             <item xml:id="II_465">
@@ -5748,7 +5748,7 @@
                   <date>28.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_465"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_465"/>
                </bibl>
             </item>
             <item xml:id="II_466">
@@ -5765,7 +5765,7 @@
                   <date>29.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_466"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_466"/>
                </bibl>
             </item>
             <item xml:id="III_18">
@@ -5782,7 +5782,7 @@
                   <date>30.11.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_18"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_18"/>
                </bibl>
             </item>
             <item xml:id="V_39">
@@ -5799,7 +5799,7 @@
                   <date>01.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_39"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_39"/>
                </bibl>
             </item>
             <item xml:id="V_169">
@@ -5816,7 +5816,7 @@
                   <date>02.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_169"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_169"/>
                </bibl>
             </item>
             <item xml:id="VI_571">
@@ -5834,7 +5834,7 @@
                   <date>03.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_571"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_571"/>
                </bibl>
             </item>
             <item xml:id="VII_115">
@@ -5852,7 +5852,7 @@
                   <date>04.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_115"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_115"/>
                </bibl>
             </item>
             <item xml:id="VI_199">
@@ -5869,7 +5869,7 @@
                   <date>05.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_199"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_199"/>
                </bibl>
             </item>
             <item xml:id="IV_331">
@@ -5886,7 +5886,7 @@
                   <date>06.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/IV_331"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/IV_331"/>
                </bibl>
             </item>
             <item xml:id="VIII_232">
@@ -5903,7 +5903,7 @@
                   <date>07.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_232"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_232"/>
                </bibl>
             </item>
             <item xml:id="VIII_124">
@@ -5920,7 +5920,7 @@
                   <date>08.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_124"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_124"/>
                </bibl>
             </item>
             <item xml:id="III_358">
@@ -5938,7 +5938,7 @@
                   <date>09.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_358"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_358"/>
                </bibl>
             </item>
             <item xml:id="VII_357">
@@ -5955,7 +5955,7 @@
                   <date>10.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_357"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_357"/>
                </bibl>
             </item>
             <item xml:id="V_610">
@@ -5972,7 +5972,7 @@
                   <date>11.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_610"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_610"/>
                </bibl>
             </item>
             <item xml:id="VI_404">
@@ -5989,7 +5989,7 @@
                   <date>12.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_404"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_404"/>
                </bibl>
             </item>
             <item xml:id="V_277">
@@ -6006,7 +6006,7 @@
                   <date>13.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_277"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_277"/>
                </bibl>
             </item>
             <item xml:id="VIII_126">
@@ -6023,7 +6023,7 @@
                   <date>14.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_126"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_126"/>
                </bibl>
             </item>
             <item xml:id="VI_204">
@@ -6041,7 +6041,7 @@
                   <date>15.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_204"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_204"/>
                </bibl>
             </item>
             <item xml:id="I_242">
@@ -6059,7 +6059,7 @@
                   <date>16.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_242"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_242"/>
                </bibl>
             </item>
             <item xml:id="VII_608">
@@ -6076,7 +6076,7 @@
                   <date>17.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_608"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_608"/>
                </bibl>
             </item>
             <item xml:id="I_350">
@@ -6094,7 +6094,7 @@
                   <date>18.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/I_350"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/I_350"/>
                </bibl>
             </item>
             <item xml:id="II_485">
@@ -6111,7 +6111,7 @@
                   <date>19.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_485"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_485"/>
                </bibl>
             </item>
             <item xml:id="VII_135">
@@ -6128,7 +6128,7 @@
                   <date>20.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_135"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_135"/>
                </bibl>
             </item>
             <item xml:id="VI_959">
@@ -6145,7 +6145,7 @@
                   <date>21.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_959"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_959"/>
                </bibl>
             </item>
             <item xml:id="V_178">
@@ -6162,7 +6162,7 @@
                   <date>22.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/V_178"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/V_178"/>
                </bibl>
             </item>
             <item xml:id="II_491">
@@ -6180,7 +6180,7 @@
                   <date>23.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_491"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_491"/>
                </bibl>
             </item>
             <item xml:id="III_172">
@@ -6197,7 +6197,7 @@
                   <date>24.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_172"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_172"/>
                </bibl>
             </item>
             <item xml:id="VII_137">
@@ -6214,7 +6214,7 @@
                   <date>25.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_137"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_137"/>
                </bibl>
             </item>
             <item xml:id="VII_138">
@@ -6231,7 +6231,7 @@
                   <date>26.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_138"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_138"/>
                </bibl>
             </item>
             <item xml:id="VII_613">
@@ -6248,7 +6248,7 @@
                   <date>27.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VII_613"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VII_613"/>
                </bibl>
             </item>
             <item xml:id="VIII_134">
@@ -6265,7 +6265,7 @@
                   <date>28.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VIII_134"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VIII_134"/>
                </bibl>
             </item>
             <item xml:id="III_33">
@@ -6282,7 +6282,7 @@
                   <date>29.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/III_33"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/III_33"/>
                </bibl>
             </item>
             <item xml:id="VI_418">
@@ -6299,7 +6299,7 @@
                   <date>30.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/VI_418"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/VI_418"/>
                </bibl>
             </item>
             <item xml:id="II_212">
@@ -6316,7 +6316,7 @@
                   <date>31.12.2024</date>
                   <time>09:00</time>
                   <link type="image"
-                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/flashcards/II_212"/>
+                        target="https://github.com/FrederikeNeuber/jeanpaultoday/blob/main/mastodon_2024/flashcards/II_212"/>
                </bibl>
             </item>
          </list>
