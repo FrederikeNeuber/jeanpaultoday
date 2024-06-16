@@ -1,4 +1,4 @@
-# @jeanpaultoday - Briefgezwitscher aus der Zeit um 1800 in den Social Media von heute
+# @JeanPaulToday - Briefkultur aus der Zeit um 1800 in den Social Media von heute
 
 Der Mastdon-Account [@JeanPaulToday](https://fedihum.org/JeanPaulToday) macht seit Juni 2024 täglich 280 Zeichen aus den Briefen des Dichters Jean Paul auf den Tag genau in der Mastodon-Instanz [@fedihum.org](https://fedihum.org/) des DHd-Verbandes verfügbar. 2022-2023 erschienen die Posts in ähnlicher Form über den Twitter-Account [@jeanpaultoday](https://twitter.com/jeanpaultoday).
 Die Posts, bei denen es sich um die Briefanfänge an verschiedene Empfängerinnen handelt, basieren auf folgender Edition:
