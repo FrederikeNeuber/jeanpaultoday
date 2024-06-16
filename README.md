@@ -10,7 +10,7 @@ _Digitale Neuausgabe der Briefe von Jean Paul (in der Fassung der von Eduard Ber
 
 Für die Tweets wurden die Daten der digitalen Edition mit XSLT transformiert. Für jeden im Volltext vorliegenden Brief wurde in bis zu 280 Zeichen des Briefanfangs sowie der/die Empfänger/in der Briefe als (fiktiver) Social-Media-Account ausgelesen. Briefkopf und Datumszeile wurden ausgeschlossen, sehr kurze Briefe ergeben ggf. Tweets unter 280 Zeichen. Die so generierten 4467 Briefanfänge wurden mit Brieftitel, Quelle, Datum und Link als XML/TEI gespeichert. Auf Basis einer zufälligen Auswahl (mittels Zahlenwerten) werden 365 bzw. 366 Posts für die Publikation bestimmt, d. h. es erscheint auf Mastodon ein Post pro Tag (ehemals drei Tweets pro Tag auf Twitter), jeweils um 9:00 Uhr.
 
-Der Text eines Posts beinhaltet den Brieftitel, den Link zur Edition und die Hashtags #OnThisDay #JeanPaulEdition #JeanPaulToday. Der eigentliche Brieftext ist einer Flashcard zu entnehmen, deren Gestaltung einem echten Mastodon-Post (ehemals Tweet) nachempfunden ist. 
+Der Text eines Posts beinhaltet den Brieftitel, den Link zur Edition und die Hashtags #OnThisDay #JeanPaulEdition #JeanPaulToday. Der eigentliche Brieftext ist einer Flashcard zu entnehmen, deren Gestaltung einem echten Mastodon-Post (ehemals Tweet) nachempfunden ist. Der Alt-Text des Bildes ist der Brieftext.
 
 **Hintergrund**
 
@@ -27,7 +27,7 @@ Folgende Dateien/Formate stellt das Repositorium zur Verfügung:
 ```
 mastodon_2024 (Mastodone-Posts von 18.6.2024-18.6.2025)
     ├── posts_sources_2024-2025.xml (Datengrundlage in XML/TEI) 
-    ├── posts_autodone_2024-2025.tsv (Texte für den Mastodon-Bot)
+    ├── posts_autodone_2024-2025_100.tsv, etc. (Texte für den Mastodon-Bot)
     ├── posts_UNPUBLISHED.xml (ausgeschlossene Posts)
     └── flashcards (Flashcards als jpgs für den Bot)
 twitter_2022 (Tweets von 15.7.2022-15.7.2023)
